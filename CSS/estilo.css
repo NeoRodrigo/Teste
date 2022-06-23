@@ -51,6 +51,10 @@ section {
     font-size: 2em;
 }
 
+.normal > p {
+    color: purple;
+}
+
 .imagem {
     box-shadow: inset 6px 6px 13px 0px rgba(0, 0, 0, 0.445);
     font-size: cover;
